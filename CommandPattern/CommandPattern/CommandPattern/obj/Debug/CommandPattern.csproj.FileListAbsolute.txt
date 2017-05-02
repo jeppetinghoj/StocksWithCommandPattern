@@ -1,0 +1,6 @@
+C:\Users\jthon\Documents\Jottacloud\I4SWD\CommandPattern\CommandPattern\CommandPattern\bin\Debug\CommandPattern.exe.config
+C:\Users\jthon\Documents\Jottacloud\I4SWD\CommandPattern\CommandPattern\CommandPattern\bin\Debug\CommandPattern.exe
+C:\Users\jthon\Documents\Jottacloud\I4SWD\CommandPattern\CommandPattern\CommandPattern\bin\Debug\CommandPattern.pdb
+C:\Users\jthon\Documents\Jottacloud\I4SWD\CommandPattern\CommandPattern\CommandPattern\obj\Debug\CommandPattern.csprojResolveAssemblyReference.cache
+C:\Users\jthon\Documents\Jottacloud\I4SWD\CommandPattern\CommandPattern\CommandPattern\obj\Debug\CommandPattern.exe
+C:\Users\jthon\Documents\Jottacloud\I4SWD\CommandPattern\CommandPattern\CommandPattern\obj\Debug\CommandPattern.pdb
