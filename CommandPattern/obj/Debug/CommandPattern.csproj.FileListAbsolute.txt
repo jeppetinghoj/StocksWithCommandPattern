@@ -4,3 +4,8 @@ C:\Users\jthon\Documents\Jottacloud\I4SWD\CommandPattern\CommandPattern\CommandP
 C:\Users\jthon\Documents\Jottacloud\I4SWD\CommandPattern\CommandPattern\CommandPattern\obj\Debug\CommandPattern.csprojResolveAssemblyReference.cache
 C:\Users\jthon\Documents\Jottacloud\I4SWD\CommandPattern\CommandPattern\CommandPattern\obj\Debug\CommandPattern.exe
 C:\Users\jthon\Documents\Jottacloud\I4SWD\CommandPattern\CommandPattern\CommandPattern\obj\Debug\CommandPattern.pdb
+C:\Users\Brian Hansen\Source\Repos\StocksWithCommandPattern\CommandPattern\bin\Debug\CommandPattern.exe.config
+C:\Users\Brian Hansen\Source\Repos\StocksWithCommandPattern\CommandPattern\bin\Debug\CommandPattern.exe
+C:\Users\Brian Hansen\Source\Repos\StocksWithCommandPattern\CommandPattern\bin\Debug\CommandPattern.pdb
+C:\Users\Brian Hansen\Source\Repos\StocksWithCommandPattern\CommandPattern\obj\Debug\CommandPattern.exe
+C:\Users\Brian Hansen\Source\Repos\StocksWithCommandPattern\CommandPattern\obj\Debug\CommandPattern.pdb

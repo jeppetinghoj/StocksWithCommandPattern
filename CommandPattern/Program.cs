@@ -20,6 +20,8 @@ namespace CommandPattern
             stockBroker.TakeOrder(sellStockOrder);
 
             stockBroker.PlaceOrders();
+
+            Console.ReadLine();
         }
     }
 }
